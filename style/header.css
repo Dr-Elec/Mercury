@@ -1,0 +1,30 @@
+.header-button {
+    padding: 1% 4%;
+    border-radius: 30px;
+}
+
+.header-desc {
+    color: white;
+    font-family: "Round Corner";
+    letter-spacing: 0.05em;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 5%;
+}
+
+.header-title {
+    color: white;
+    font-family: "Roboto";
+    font-size: 4em;
+    text-align: center;
+    font-weight: 100;
+    margin: 0;
+}
+
+.header-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}

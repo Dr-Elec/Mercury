@@ -1,0 +1,22 @@
+@font-face {
+    font-family:"Round Corner";
+    src: url("font/RoundCornerFont.ttf");
+}
+@font-face {
+    font-family: "Roboto";
+    src:  url("font/Roboto-Thin.ttf");
+
+}
+body {
+    margin:0;
+    background: #0e1a35;
+    color:white;
+}
+button {
+    border: none;
+    background: #5584ff;
+    color: white;
+    font-family: "Round Corner";
+    letter-spacing: 0.05em;
+    font-size: 1em;
+}

@@ -1,0 +1,30 @@
+nav {
+    margin: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-buttons {
+    width: 40%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+a.nav-button {
+    padding: 3% 5%;
+    color: white;
+    border-radius: 30px;
+    font-family: "Round Corner";
+    letter-spacing: 0.05em;
+    font-size: 1em;
+}
+
+button.nav-button {
+   
+    padding: 3% 7%;
+    border-radius: 30px;
+    
+}
