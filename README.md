@@ -1,2 +1,2 @@
-# Mercury
-A Mercury web-page
+# Merkury
+A Merkury web-page
