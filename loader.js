@@ -1,4 +1,4 @@
-
+//asd
 fetch("style/styles.json")
     .then((response) => response.json())
     .then((data) => data.forEach((cur)=> {
@@ -9,6 +9,7 @@ window.onload = () => {
     document.querySelectorAll("fetch").forEach((elem) => {
         fetch(elem.getAttribute("src"))
             .then((response) => response.text())
-            .then((txt) => elem.parentElement.innerHTML = txt)
+            .then((txt) => elem.parentElement.innerHTML += txt)
+        
     })
 }

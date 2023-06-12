@@ -28,3 +28,13 @@
     align-items: center;
     flex-direction: column;
 }
+header {
+    background-image: url("../img/grid.png");
+    background-size: cover;
+    
+    background-position: 50% -50%;
+}
+.header-img {
+    position: relative;
+    top: 5em;
+}

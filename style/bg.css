@@ -15,9 +15,4 @@
     z-index: -5;
     
 }
-.header-bg {
-    width: 100vw;
-    height: 100vh;
-    background-image: url("../img/grid.png");
-    background-position: 50% 0%;
-}
+

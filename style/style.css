@@ -20,3 +20,6 @@ button {
     letter-spacing: 0.05em;
     font-size: 1em;
 }
+fetch {
+    display: none;
+}
